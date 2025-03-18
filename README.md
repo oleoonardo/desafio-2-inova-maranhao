@@ -39,7 +39,7 @@ Durante o desenvolvimento, enfrentei os seguintes desafios:
 - **Planejamento da estrutura** para manter o formulário **simples, intuitivo e acessível**, sem perder a robustez necessária para atender ao programa.
 
 **Soluções aplicadas**:
-- Implementação de validações em **JavaScript puro**, com foco na **experiência do usuário (UX)**.
+- Implementação de validações em **JavaScript puro**, com foco na **experiência do usuário**.
 
 ---
 
@@ -52,5 +52,5 @@ Durante o desenvolvimento, enfrentei os seguintes desafios:
 
 ## 📬 Contato e Links
 - 🔗 **GitHub**: *[Seu repositório no GitHub]*  
-- 🌐 **Portfólio**: *[Seu portfólio, caso tenha]*  
+- 🌐 **Portfólio**: *[Seu portfólio]*  
 - 📧 **E-mail**: *[Seu e-mail profissional]*
